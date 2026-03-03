@@ -2,6 +2,32 @@
 
 You will scan all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media.
 
+# Coronavirus Twitter Analysis (2020)
+
+This project analyzes 1.1 billion geotagged tweets from 2020 to study how coronavirus-related hashtags spread across languages and countries using a MapReduce pipeline.
+
+## Task 3: Top 10 Bar Plots
+
+### Coronavirus by Language
+![Coronavirus Language](plots/coronavirus_all_lang.png)
+
+### Coronavirus by Country
+![Coronavirus Country](plots/coronavirus_all_country.png)
+
+### 코로나바이러스 by Language
+![Korean Language](plots/코로나바이러스_all_lang.png)
+
+### 코로나바이러스 by Country
+![Korean Country](plots/코로나바이러스_all_country.png)
+
+---
+
+## Task 4: Time Series Analysis
+
+The following plot shows daily hashtag usage throughout 2020.
+
+![Time Series](plots/task4_timeseries.png)
+
 **Learning Objectives:**
 
 1. work with large scale datasets
